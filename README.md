@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I may be excessively pleased with the way this turned out. It gracefully supports the entire range of text sizes for accessability.
+
+https://user-images.githubusercontent.com/3050944/118212749-6f15db80-b432-11eb-86d0-3d99ab03a5ce.mov
+
