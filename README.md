@@ -1,4 +1,4 @@
-### Bob's Software Development
+# Bob's Software Development
 
 <!--
 **bwake2012/bwake2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've been a software developer for over forty years, counting a job I had in college. It still feels good to make something nice.
 
 I may be excessively pleased with the way this turned out. It gracefully supports the entire range of text sizes for accessability.
 
